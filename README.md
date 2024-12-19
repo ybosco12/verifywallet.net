@@ -1,2 +1,2 @@
-# verifywallet.net
+# verifywallet.co
 Verification
